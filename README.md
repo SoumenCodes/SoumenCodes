@@ -1,18 +1,65 @@
-<h1 align="center">Hi , 🖐I'am Soumen</h1>
-<h3 align="center">Feel Free to Add me in warking Team _____Always Look for good Opportunity______ Software developer</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there!+👋;I'm+Soumen;Welcome+to+my+profile!&center=true&size=30">
+</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=soumencodes&label=Profile%20views&color=0e75b6&style=flat" alt="soumencodes" /> </p>
+<h3 align="center">💻 Software Developer | 🚀 Always Looking for Good Opportunities</h3>
 
-- 📫 How to reach me **soumen19j@gmail.com**
-
-
-<h3 align="left">Connect me Without Any Hesitation:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/soumenjs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soumenjs" height="30" width="40" /></a>
-<a href="https://instagram.com/soumen_is_here" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="soumen_is_here" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=soumencodes&label=Profile%20views&color=0e75b6&style=flat" alt="soumencodes" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="60" height="60"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="60"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="70" height="70"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="80" height="80"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="70" height="70"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="70" height="70"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="60" height="60"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="60" height="70"/> </a> </p>
+<p align="center">
+  <a href="https://github.com/soumencodes">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=soumencodes&theme=radical&border=7F3FBF&background=0D1117" alt="Soumen's GitHub streak"/>
+  </a>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soumencodes&" alt="soumencodes" /></p>
+<p align="center">
+  <a href="https://github.com/soumencodes">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soumencodes&theme=radical" alt="Soumen's GitHub Contribution"/>
+  </a>
+</p>
+
+<h3 align="center">Connect with me:</h3>
+
+<p align="center">
+  <a href="mailto:soumen19j@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+  <a href="https://linkedin.com/in/soumenjs" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+  <a href="https://instagram.com/soumen_is_here" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+</p>
+
+<h3 align="center">Languages and Tools:</h3>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,bootstrap,tailwind,cpp,java,mongodb&perline=5" />
+  </a>
+</p>
+
+<details>
+  <summary>More about me</summary>
+  
+  - 🔭 I'm currently working on enhancing my full-stack development skills
+  - 🌱 I'm currently learning advanced React patterns and Node.js
+  - 👯 I'm looking to collaborate on innovative web projects
+  - 💬 Ask me about JavaScript, React, or any tech-related stuff
+  - ⚡ Fun fact: I love to solve puzzles and play chess in my free time!
+</details>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumencodes&theme=radical&layout=compact" alt="Soumen's Top Languages" />
+</p>
+
+<div align="center">
+  <h3>🐍 My Contributions 🐍</h3>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/soumencodes/soumencodes/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Thank+you+for+visiting!;Have+a+great+day!&center=true&size=20">
+</h3>
+
+
