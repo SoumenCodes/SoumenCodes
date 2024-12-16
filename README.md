@@ -37,7 +37,7 @@
 </p>
 
 <details>
-  <summary>More about me</summary>
+  <summary>Click For More about me</summary>
   
   - 🔭 I'm currently working on enhancing my full-stack development skills
   - 🌱 I'm currently learning advanced React patterns and Node.js
