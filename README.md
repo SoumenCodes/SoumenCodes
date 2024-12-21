@@ -15,87 +15,71 @@
       margin: 0;
       padding: 0;
     }
-
     header {
       text-align: center;
       padding: 2rem 1rem;
     }
-
     header img {
       max-width: 100%;
     }
-
     h1 {
       font-size: 2.5rem;
       color: #58a6ff;
       margin-bottom: 0.5rem;
     }
-
     h3 {
       font-weight: normal;
       margin-bottom: 2rem;
     }
-
     section {
       max-width: 800px;
       margin: 0 auto;
       padding: 2rem 1rem;
       border-bottom: 1px solid #30363d;
     }
-
     section:last-child {
       border-bottom: none;
     }
-
     .center {
       text-align: center;
     }
-
     .social-icons a {
       display: inline-block;
       margin: 0 0.5rem;
       transition: transform 0.3s;
     }
-
     .social-icons a:hover {
       transform: scale(1.2);
     }
-
     .skills {
       display: flex;
       flex-wrap: wrap;
       justify-content: center;
       gap: 1rem;
     }
-
     .skills img {
       width: 50px;
       height: 50px;
       transition: transform 0.3s;
     }
-
     .skills img:hover {
       transform: scale(1.1);
     }
-
     details {
       background: #161b22;
       padding: 1rem;
       border-radius: 8px;
       margin: 1rem 0;
     }
-
     details summary {
       cursor: pointer;
       font-weight: bold;
     }
-
     footer {
       text-align: center;
       padding: 1rem;
       margin-top: 2rem;
     }
-
     footer h3 {
       margin-bottom: 0.5rem;
     }
