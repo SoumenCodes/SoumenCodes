@@ -89,7 +89,7 @@ I'm a passionate software developer always looking for good opportunities to gro
     font-size: 2.5em;
   }
   h2 {
-    color: #2ea44f;
+    color: yellow;
     border-bottom: 2px solid #2ea44f;
     padding-bottom: 10px;
     margin-top: 40px;
