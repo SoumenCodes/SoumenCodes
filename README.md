@@ -118,7 +118,7 @@ I'm a passionate software developer always looking for good opportunities to gro
     height: auto;
   }
   a {
-    color: red;
+    color: #0366d6;
     text-decoration: none;
     transition: color 0.3s ease;
   }
