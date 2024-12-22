@@ -14,7 +14,7 @@
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://instagram.com/soumen_is_here">
-    <img src="https://img.shields.io/badge/Instagram-soumen__is__here-blue?style=for-the-badge&logo=instagram" alt="Instagram" height="30">
+    <img src="https://img.shields.io/badge/Instagram-soumen__is__here?style=for-the-badgelogo=instagram" alt="Instagram" height="30">
   </a>
 </p>
 
