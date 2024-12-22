@@ -6,11 +6,11 @@
 
 <p align="center">
   <a href="mailto:soumen19j@gmail.com">
-    <img src="https://img.shields.io/badge/Email-soumen19j%40gmail.com-blue?style=for-the-badge&logo=gmail" alt="Email" height="30">
+    <img src="https://img.shields.io/badge/Email-soumen19j%40gmail.com-black?style=for-the-badge&logo=gmail" alt="Email" height="30">
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/soumenjs">
-    <img src="https://img.shields.io/badge/LinkedIn-soumenjs-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" height="30">
+    <img src="https://img.shields.io/badge/LinkedIn-soumenjs-black?style=for-the-badge&logo=linkedin" alt="LinkedIn" height="30">
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://instagram.com/soumen_is_here">
